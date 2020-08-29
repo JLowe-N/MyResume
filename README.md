@@ -1,5 +1,5 @@
 # Justin Lowen
-I'm a software engineer, who excels at colloborating on large teams for business-critical projects.
+I'm a software engineer, who excels at collaborating on large teams for business-critical projects.
 
 My foundation is in Python and Modern Javascript, but I am always willing to skil up in new tools, frameworks, and langauges.
 
