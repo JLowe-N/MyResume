@@ -1,5 +1,5 @@
 # Justin Lowen
-[Intro](#justin-lowen) [Technical Skills](#technical-skills) [Projects](#projects) [Experience](#experience) [Certifications & Education](#certifications)
+[Technical Skills](#technical-skills) | [Projects](#projects) | [Experience](#experience) | [Certifications & Education](#certifications)
 
 I am a software engineer, working in Javascript and React as well as Python and the Django Framework, but I am always eager to expand my technology stack.  I write new React code with primarily functional components using React Hooks and the Context API, but I understand and can use or refactor class-based components that will be found in existing codebases.  I use React Router for adding navigation to my React apps, and you can see an examples of this and my other React code in my public repos [see Netflix clone](#projects).  I like using compound components with CSS-in-JS using the styled-components library.  I think this makes a more robust and reusable component library that can be shared across development teams.
 
@@ -10,7 +10,7 @@ My experience as an Engineer and Project Manager gave me a laser-sharp customer 
 My work experience also taught me the importance of balancing speed of results with accuracy.  In an ideal world, we would be able to come up with the perfect algorith with minimum complexity for every project.  The reality is that the customer cannot wait and may not even notice the perfect implementation. Likewise, we as developers need to be efficient with the resources we have to drive business value.  Making these agile decisions has been a core part of my career as the value of business critical projects is only maximized when results are delivered in a timely fashion.
 
 ## Technical skills
-
+[Back to Top](#justin-lowen)<br>
 **Front-end:**
 
 * HTML
@@ -40,6 +40,7 @@ My work experience also taught me the importance of balancing speed of results w
 * PIP
 
 ## Projects
+[Back to Top](#justin-lowen)
 ### Netflix Clone
 [Article](https://jlowe-n.github.io/netflix-clone.html)<br>
 [Live Demo](https://jlowen-netflix.netlify.app/)<br>
@@ -53,6 +54,7 @@ Recreates the Netflix landing page, login, and browse pages utilizing React whic
 A React based layout and design for an e-commerce shop selling photo prints.  Uses modern React and Javascript to implement functional components with State and Context.  This reduces the complexity of sharing state across te application and eliminates the need for state-based components.
 
 ## Experience
+[Back to Top](#justin-lowen)
 ### Halliburton - Senior Project Manager (2019-May 2020)
 * Debugged a production software calculation error in Spotfire
 visualization, correcting inconsistent project metrics that
@@ -86,6 +88,7 @@ regulatory compliance reporting, reducing time for production
 release
 
 ## Certifications
+[Back to Top](#justin-lowen)
 ### Frontend Developer Career Path - Scrimba (07/2020 - Present)
 * Over 250 hours of coursework covering modern JavaScript (ES6+) and
 React. Deployed personal portfolio with Django framework.
@@ -100,4 +103,4 @@ Bachelors of Science, Chemical Engineering<br>
 _University of Pittsburgh, 2012_
 
 ### Navigation
-[Intro](#justin-lowen) [Technical Skills](#technical-skills) [Projects](#projects) [Experience](#experience) [Certifications & Education](#certifications)
+[Intro](#justin-lowen) | [Technical Skills](#technical-skills) | [Projects](#projects) | [Experience](#experience) | [Certifications & Education](#certifications)
