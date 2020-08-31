@@ -44,15 +44,11 @@ My work experience also taught me the importance of balancing speed of results w
 ## Projects
 
 ### Netflix Clone
-[Article](https://jlowe-n.github.io/netflix-clone.html)<br>
-[Live Demo](https://jlowen-netflix.netlify.app/)<br>
-[Repo](https://github.com/JLowe-N/netflixclone)<br>
+[Article](https://jlowe-n.github.io/netflix-clone.html) | [Live Demo](https://jlowen-netflix.netlify.app/) | [Repo](https://github.com/JLowe-N/netflixclone)
 Recreates the Netflix landing page, login, and browse pages utilizing React which simplifies the architecture into reusable components.  Reusable components are styled using the styled-components library (CSS in JavaScript) that further enhances the ease with which user interfaces can be built.
 
 ### Pic Some E-Commerce
-[Article](https://jlowe-n.github.io/pic-some.html)<br>
-[Live Demo](https://jlowe-n.github.io/picsomereact/)<br>
-[Repo](https://github.com/JLowe-N/picsomereact)<br>
+[Article](https://jlowe-n.github.io/pic-some.html) | [Live Demo](https://jlowe-n.github.io/picsomereact/) | [Repo](https://github.com/JLowe-N/picsomereact)
 A React based layout and design for an e-commerce shop selling photo prints.  Uses modern React and Javascript to implement functional components with State and Context.  This reduces the complexity of sharing state across te application and eliminates the need for state-based components.
 
 [Back to Top](#justin-lowen)
