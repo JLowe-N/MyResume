@@ -1,4 +1,6 @@
 # Justin Lowen
+[Intro](#justin-lowen) [Technical Skills](#technical-skills) [Projects](#projects) [Experience](#experience) [Certifications & Education](#certifications)
+
 I am a software engineer, working in Javascript and React as well as Python and the Django Framework, but I am always eager to expand my technology stack.  I write new React code with primarily functional components using React Hooks and the Context API, but I understand and can use or refactor class-based components that will be found in existing codebases.  I use React Router for adding navigation to my React apps, and you can see an examples of this and my other React code in my public repos [see Netflix clone](#projects).  I like using compound components with CSS-in-JS using the styled-components library.  I think this makes a more robust and reusable component library that can be shared across development teams.
 
 I am used to working in large teams of at least 15-30 members, so I know how to collaborate.  At Halliburton, we had a large team of engineers (~100 members) and were were always growing with new engineers.  When I was not traveling for projects, I was busy developing the engineering and operations teams competency by leading technical classes in data analysis and software.  This also involved 1-on-1 mentoring to ensure no one was left behind.  Although training was not my primary function, I always found this as time well-spent (and enjoyable) as the better our teams performed, the less time and effort we spent struggling with problems down the line.
@@ -96,3 +98,6 @@ structures & methods, and the Django framework
 ## Education
 Bachelors of Science, Chemical Engineering<br>
 _University of Pittsburgh, 2012_
+
+### Navigation
+[Intro](#justin-lowen) [Technical Skills](#technical-skills) [Projects](#projects) [Experience](#experience) [Certifications & Education](#certifications)
