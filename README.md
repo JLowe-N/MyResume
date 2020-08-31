@@ -9,8 +9,9 @@ My experience as an Engineer and Project Manager gave me a laser-sharp customer 
 
 My work experience also taught me the importance of balancing speed of results with accuracy.  In an ideal world, we would be able to come up with the perfect algorith with minimum complexity for every project.  The reality is that the customer cannot wait and may not even notice the perfect implementation. Likewise, we as developers need to be efficient with the resources we have to drive business value.  Making these agile decisions has been a core part of my career as the value of business critical projects is only maximized when results are delivered in a timely fashion.
 
+[Back to Top](#justin-lowen)
 ## Technical skills
-[Back to Top](#justin-lowen)<br>
+
 **Front-end:**
 
 * HTML
@@ -39,8 +40,9 @@ My work experience also taught me the importance of balancing speed of results w
 * Virtual Environments
 * PIP
 
-## Projects
 [Back to Top](#justin-lowen)
+## Projects
+
 ### Netflix Clone
 [Article](https://jlowe-n.github.io/netflix-clone.html)<br>
 [Live Demo](https://jlowen-netflix.netlify.app/)<br>
@@ -53,8 +55,9 @@ Recreates the Netflix landing page, login, and browse pages utilizing React whic
 [Repo](https://github.com/JLowe-N/picsomereact)<br>
 A React based layout and design for an e-commerce shop selling photo prints.  Uses modern React and Javascript to implement functional components with State and Context.  This reduces the complexity of sharing state across te application and eliminates the need for state-based components.
 
-## Experience
 [Back to Top](#justin-lowen)
+## Experience
+
 ### Halliburton - Senior Project Manager (2019-May 2020)
 * Debugged a production software calculation error in Spotfire
 visualization, correcting inconsistent project metrics that
@@ -87,8 +90,9 @@ completing smoke testing as a subject matter expert (SME) for
 regulatory compliance reporting, reducing time for production
 release
 
-## Certifications
 [Back to Top](#justin-lowen)
+## Certifications
+
 ### Frontend Developer Career Path - Scrimba (07/2020 - Present)
 * Over 250 hours of coursework covering modern JavaScript (ES6+) and
 React. Deployed personal portfolio with Django framework.
