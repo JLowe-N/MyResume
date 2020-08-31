@@ -1,7 +1,11 @@
 # Justin Lowen
-I am a software engineer, working in Javascript and React as well as Python and the Django Framework.  I write new React code with primarily functional components using React Hooks and the Context API, but I understand and can use or refactor class-based components that will be found in existing codebases.  I use React Router for adding navigation to my React apps, and you can see an examples of this and my other React code in my public repos [see Netflix clone](#projects).  
+I am a software engineer, working in Javascript and React as well as Python and the Django Framework, but I am always eager to expand my technology stack.  I write new React code with primarily functional components using React Hooks and the Context API, but I understand and can use or refactor class-based components that will be found in existing codebases.  I use React Router for adding navigation to my React apps, and you can see an examples of this and my other React code in my public repos [see Netflix clone](#projects).  I like using compound components with CSS-in-JS using the styled-components library.  I think this makes a more robust and reusable component library that can be shared across development teams.
 
-I'm self driven, hard working and easy going. I also hold a bachelors degree in engineering.
+I am used to working in large teams of at least 15-30 members, so I know how to collaborate.  At Halliburton, we had a large team of engineers (~100 members) and were were always growing with new engineers.  When I was not traveling for projects, I was busy developing the engineering and operations teams competency by leading technical classes in data analysis and software.  This also involved 1-on-1 mentoring to ensure no one was left behind.  Although training was not my primary function, I always found this as time well-spent (and enjoyable) as the better our teams performed, the less time and effort we spent struggling with problems down the line.
+
+My experience as an Engineer and Project Manager gave me a laser-sharp customer focus.  At Halliburton, the customer was always seated directly behind the team as we analyzed real-time data streams.  This meant that we always had real-time feedback if we were not meeting customer needs, and that developed an instinct for earning and keeping customer trust.  One of our core values was to Listen First and Respond to customers to drive value for them (some readers may be familiar with the 80-20 rule of active listening).
+
+My work experience also taught me the importance of balancing speed of results with accuracy.  In an ideal world, we would be able to come up with the perfect algorith with minimum complexity for every project.  The reality is that the customer cannot wait and may not even notice the perfect implementation. Likewise, we as developers need to be efficient with the resources we have to drive business value.  Making these agile decisions has been a core part of my career as the value of business critical projects is only maximized when results are delivered in a timely fashion.
 
 ## Technical skills
 
@@ -89,5 +93,6 @@ React. Deployed personal portfolio with Django framework.
 fundamentals.Topics covered included functional & OOP, common data
 structures & methods, and the Django framework
 
-<!-- Links -->
-[1] https://jlowe-n.github.io/netflix-clone.html
+## Education
+Bachelors of Science, Chemical Engineering<br>
+_University of Pittsburgh, 2012_
