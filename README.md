@@ -1,5 +1,5 @@
 # Justin Lowen
-[Download PDF Resume](https://github.com/JLowe-N/MyResume/raw/master/Justin%20Lowen%20-%20Software%20Engineer%20-%20Sept%202020%20-%20Public%20Copy.pdf)
+[Download PDF Resume](https://github.com/JLowe-N/MyResume/raw/master/Justin%20Lowen%20-%20Software%20Engineer%20-%20Sept%202020%20-%20Public%20Copy.pdf)<br>
 [Technical Skills](#technical-skills) | [Projects](#projects) | [Experience](#experience) | [Certifications & Education](#certifications)
 
 I am a software engineer, working in Javascript and React as well as Python and the Django Framework, but I am always eager to expand my technology stack.  I write new React code with primarily functional components using React Hooks and the Context API, but I understand and can use or refactor class-based components that will be found in existing codebases.  I use React Router for adding navigation to my React apps, and you can see an examples of this and my other React code in my public repos [see Netflix clone](#projects).  I like using compound components with CSS-in-JS using the styled-components library.  I think this makes a more robust and reusable component library that can be shared across development teams.
