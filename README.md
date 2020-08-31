@@ -1,11 +1,9 @@
 # Justin Lowen
-I'm a software engineer, who excels at collaborating on large teams for business-critical projects.
-
-My foundation is in Python and Modern Javascript, but I am always willing to skil up in new tools, frameworks, and langauges.
+I am a software engineer, working in Javascript and React as well as Python and the Django Framework.  I write new React code with primarily functional components using React Hooks and the Context API, but I understand and can use or refactor class-based components that will be found in existing codebases.  I use React Router for adding navigation to my React apps, and you can see an examples of this and my other React code in my public repos [see Netflix clone](#projects).  
 
 I'm self driven, hard working and easy going. I also hold a bachelors degree in engineering.
 
-## Technical skills:
+## Technical skills
 
 **Front-end:**
 
@@ -35,16 +33,20 @@ I'm self driven, hard working and easy going. I also hold a bachelors degree in 
 * Virtual Environments
 * PIP
 
-## Projects I've coded:
+## Projects
 ### Netflix Clone
-https://jlowen-netflix.netlify.app/
+[Article](https://jlowe-n.github.io/netflix-clone.html)<br>
+[Live Demo](https://jlowen-netflix.netlify.app/)<br>
+[Repo](https://github.com/JLowe-N/netflixclone)<br>
 Recreates the Netflix landing page, login, and browse pages utilizing React which simplifies the architecture into reusable components.  Reusable components are styled using the styled-components library (CSS in JavaScript) that further enhances the ease with which user interfaces can be built.
 
 ### Pic Some E-Commerce
-https://jlowe-n.github.io/picsomereact/
+[Article](https://jlowe-n.github.io/pic-some.html)<br>
+[Live Demo](https://jlowe-n.github.io/picsomereact/)<br>
+[Repo](https://github.com/JLowe-N/picsomereact)<br>
 A React based layout and design for an e-commerce shop selling photo prints.  Uses modern React and Javascript to implement functional components with State and Context.  This reduces the complexity of sharing state across te application and eliminates the need for state-based components.
 
-## Experience:
+## Experience
 ### Halliburton - Senior Project Manager (2019-May 2020)
 * Debugged a production software calculation error in Spotfire
 visualization, correcting inconsistent project metrics that
@@ -86,3 +88,6 @@ React. Deployed personal portfolio with Django framework.
 * Over 300 hours of coursework covering Python and web development
 fundamentals.Topics covered included functional & OOP, common data
 structures & methods, and the Django framework
+
+<!-- Links -->
+[1] https://jlowe-n.github.io/netflix-clone.html
