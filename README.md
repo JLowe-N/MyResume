@@ -90,7 +90,12 @@ release
 [Back to Top](#justin-lowen)
 ## Certifications
 
-### Frontend Developer Career Path - Scrimba (07/2020 - Present)
+### Algorithms and Data Structures - AlgoExpert (09/2020 - Present)
+* Solved 100 algorithm and data structure problems covering arrays, strings,
+linked lists, graphs, trees, recursion, and dynamic programming.  Focus of course
+is understanding Big O complexity analysis and optimizing processing time and space usage.
+
+### Frontend Developer Career Path - Scrimba (07/2020 - 09/2020)
 * Over 250 hours of coursework covering modern JavaScript (ES6+) and
 React. Deployed personal portfolio with Django framework.
 
